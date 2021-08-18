@@ -1,2 +1,2 @@
-# p5.play-boilerplate
+# DOCKING AND UNDOCKING
 Boiler plate for p5.play
